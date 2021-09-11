@@ -2,7 +2,7 @@
 
 
 
-## A simple REST API with authentication which can create users and create tasks.
+## A Simple REST API with authentication which can create users and create tasks.
 
 
 ## Server
